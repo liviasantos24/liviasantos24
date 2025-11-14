@@ -1,55 +1,41 @@
-# 👋 Hi, I’m Lívia Santos
+👋 Hi, I’m Lívia Santos
+Front end | React | Javascript | CSS | HTML | Python
 
-**Back-end Developer | Data Scientist | Machine Learning Enthusiast**
+I build beautiful, fast and accessible web interfaces.
+My toolkit includes HTML, CSS, JavaScript, TypeScript, React, and modern UI libraries to turn ideas into elegant, scalable user experiences.
 
-I turn data into meaningful products and insights.  
-My toolkit includes **Python**, **SQL**, **Databases**, **Power BI**, and **Machine Learning**, used to build scalable APIs, data pipelines, and predictive models.
+💼 What I Do
 
----
+Build responsive and accessible interfaces for all devices
 
-## 💼 What I Do
+Develop dynamic apps using React + TypeScript
 
-- Develop RESTful APIs and backend systems with clean architecture  
-- Design and maintain robust data pipelines  
-- Train and deploy ML models to solve real-world problems  
-- Create dashboards and visualizations in Power BI that drive decisions  
-- Optimize database schema & queries for performance  
+Create reusable UI components and design systems
 
----
+Work with state management (Redux, Zustand, or Context API)
 
-## 🛠️ Skills
+Consume and integrate REST or GraphQL APIs
 
-<p>
-  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="40" alt="pandas">
-  <img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" height="40" alt="numpy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  <img src="https://preview.redd.it/sklauncher-macos-icon-v0-c8yynwfuw3bc1.png?width=256&format=png&auto=webp&s=f7869404435a85c7eef792d5ac0c7f834cf6b9a7" height="40" alt="sklearn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
-  <img src="https://img.icons8.com/color/512/power-bi.png" height="40" alt="Power BI">
-</p>
----
+Optimize performance, SEO, and overall user experience
 
-## 🚀 Featured Projects
+🛠️ Skills
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"> </p>
+🚀 Featured Projects
+Project	Description	Tech Stack
+E-commerce UI	Modern, responsive store interface with cart system	React, TypeScript, Redux
+Portfolio Website	Personal portfolio with animations and dark mode	HTML, CSS, JS
+Movie Finder App	Fetches movies from API with filters and search	React, API Fetch
+Dashboard Front-end	Interactive dashboard with charts and UI components	React, Chart.js, CSS Modules
 
-| Project | Description | Tech Stack |
-|--------|--------------|-------------|
-| **Sales Dashboard** | Interactive dashboard for sales insights | Power BI, SQL, Python |
-| **Movie Recommender** | Model to suggest films based on user profile | Python, scikit-learn |
-| **Data API Service** | API that processes & serves structured data | FastAPI, PostgreSQL |
-| **Database Optimizer** | Tool to analyze & optimize query performance | Python, SQL |
+(Você pode mudar os nomes ou me pedir pra criar projetos reais baseados no que você já fez!)
 
-*(Add or replace with your actual project names, links & descrições)*
+📫 Get in Touch
 
----
+🔗 https://linktr.ee/livia.santtoos
+_
 
-## 📫 Get in Touch
+📧 liviasantosalves067@gmail.com
 
-- 🔗 https://linktr.ee/livia.santtoos_ 
-- 📧 liviasantosalves067@gmail.com  
-- 
----
+“A great interface is where design meets code — and both work in harmony.”
 
-> “Data tells the story; we just need to listen.”  
-
-⭐ If you like my work, feel free to star some of my repos!
+⭐ If you like my work, feel free to check out my repositories!
